@@ -57,19 +57,9 @@ cd amigo-secreto
 # Abra no navegador
 start index.html       # Windows
 open index.html        # Mac/Linux
-📂 Estrutura de Pastas
-bash
-Copiar
-Editar
-amigo-secreto/
-├── index.html             # Estrutura da página
-├── style.css              # Estilos visuais
-├── app.js                 # Lógica do sorteio
-└── assets/                # Imagens e ícones
-    ├── amigo-secreto.png
-    └── play_circle_outline.png
-🖼️ Imagem do Projeto
-<p align="center"> <img src="assets/amigo-secreto.png" width="70%" alt="Preview do projeto" /> </p>
+
+
+
 🙋‍♂️ Autor
 Feito com 💙 por Guilherme Vieira
 
